@@ -219,7 +219,7 @@ export default function Home() {
           <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
             Ride Booking
             <span className="block bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-              Backend System
+              Backend System by Aniket Kumawat
             </span>
           </h1>
           
